@@ -1,2 +1,2 @@
-# Django
-Mental wellness site using Django
+# Cessabit
+A Mental wellness site
