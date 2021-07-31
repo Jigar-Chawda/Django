@@ -1,0 +1,23 @@
+h1{
+  color: #00000H;
+}
+.header-text{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.header-text p{
+  text-align: justify;
+}
+
+.media-body {
+  text-align: center;
+}
+
+.media-body p{
+  text-align: justify;
+}
+
+#quiz{
+  height: 10%;
+}
